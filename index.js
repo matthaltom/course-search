@@ -3,5 +3,5 @@ lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'data.json'
+  path: 'https://labs.nearpod.com/bodymovin/demo/markus/halloween/markus.json'
 })
