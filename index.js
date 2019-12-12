@@ -1,7 +1,7 @@
-lottie.loadAnimation({
-  container: document.getElementById('lottie'),
+var animation = bodymovin.loadAnimation({
+  container: document.getElementById('bm'),
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'course-search-finish.json'
+  path: 'data.json'
 })
